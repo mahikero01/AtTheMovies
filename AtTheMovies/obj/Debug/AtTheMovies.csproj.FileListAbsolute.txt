@@ -57,3 +57,7 @@ C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\bin\Antlr3.Runtime
 C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\obj\Debug\AtTheMovies.csprojResolveAssemblyReference.cache
 C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\obj\Debug\AtTheMovies.dll
 C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\obj\Debug\AtTheMovies.pdb
+C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\bin\EntityFramework.dll
+C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\bin\EntityFramework.SqlServer.dll
+C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\bin\EntityFramework.xml
+C:\Users\Mahikero01\Documents\SandBox\AtTheMovies\AtTheMovies\bin\EntityFramework.SqlServer.xml
